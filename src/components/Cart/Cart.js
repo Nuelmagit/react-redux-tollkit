@@ -9,7 +9,7 @@ const Cart = (props) => {
 
   return (
     <Card className={classes.cart}>
-      <h2>Your Shopping Cart</h2>
+      <h2>Shopping Cart</h2>
       <ul>
         {cartItems.map(item => console.log({item}) ||<CartItem
           key={item.id}

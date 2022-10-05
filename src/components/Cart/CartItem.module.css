@@ -1,6 +1,6 @@
 .item {
   margin: 1rem 0;
-  background-color: #575757;
+  background-color: #5a666e;
   padding: 1rem;
 }
 
@@ -53,6 +53,6 @@
 
 .actions button:hover,
 .actions button:active {
-  background-color: #4b4b4b;
+  background-color: #219EBC;
   color: white;
 }
